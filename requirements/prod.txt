@@ -1,9 +1,9 @@
-numpy==1.16.2
-tensorflow>=1.13,<1.14  # Must be on piwheels
+numpy==1.21.2
+tensorflow==1.14.0
+keras==2.1.6
 sonopy
 pyaudio
-keras<=2.1.5
-h5py
+h5py<3.0.0
 wavio
 typing
 prettyparse>=1.1.0
