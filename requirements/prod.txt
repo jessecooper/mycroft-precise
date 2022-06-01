@@ -1,5 +1,5 @@
 numpy==1.21.2
-tensorflow==1.14.0
+tensorflow>=1.13,<1.14
 keras==2.1.6
 sonopy
 pyaudio
